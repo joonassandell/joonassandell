@@ -5,8 +5,6 @@ I’m Joonas — [Creative developer](https://joonassandell.com), [designer](htt
 
 I have a strong passion for all aspects of product, UI/UX and visual design, including web and mobile services, branding and software development. I love designing in the browser but I work a lot with Figma and other design tools as well. I like writing applications mainly with TypeScript, React and other modern tools.
 
-With more than a decade of experience in the design and software industry, I have the skills to assist clients in addressing practical business challenges. 
-
 Check out my **[Portfolio](https://joonassandell.com)** for selected works and [Dribbble](https://dribbble.com/joonassandell) for latest sketches.  
 
 You can also find me from [Twitter](https://twitter.com/joonassandell), [LinkedIn](https://www.linkedin.com/in/joonassandell), [Instagram](https://instagram.com/mode.apart) and [SoundCloud](https://soundcloud.com/modeapart).
