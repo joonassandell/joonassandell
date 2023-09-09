@@ -7,12 +7,6 @@ I have a strong passion for all aspects of product, UI/UX and visual design, inc
 
 With more than a decade of experience in the design and software industry, I have the skills to assist clients in addressing practical business challenges. 
 
-Check out my [portfolio](https://joonassandell.com) for selected works and [Dribbble](https://dribbble.com/joonassandell) for latest sketches.  
+Check out my **[Portfolio](https://joonassandell.com)** for selected works and [Dribbble](https://dribbble.com/joonassandell) for latest sketches.  
 
-## You can find me from
-
-- [Twitter](https://twitter.com/joonassandell)
-- [LinkedIn](https://www.linkedin.com/in/joonassandell)
-- [Dribbble](https://dribbble.com/joonassandell)
-- [Instagram](https://instagram.com/mode.apart)
-- [SoundCloud](https://soundcloud.com/modeapart)
+You can also find me from [Twitter](https://twitter.com/joonassandell), [LinkedIn](https://www.linkedin.com/in/joonassandell), [Instagram](https://instagram.com/mode.apart) and [SoundCloud](https://soundcloud.com/modeapart).
