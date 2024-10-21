@@ -1,9 +1,9 @@
 # Hi 👋 
 
-I’m Joonas — Creative developer and designer based in Helsinki, Finland. I'm currently working for [Biocode](https://biocode.io).
+I’m Joonas — Front-end Developer, UI/UX Designer and sometimes even a [Music Producer](https://soundcloud.com/modeapart) based in Helsinki, Finland. I'm currently working for [Biocode](https://biocode.io). I have a strong and great visual taste, broad understanding of front-end web technologies and a genuine passion for all aspects of product and visual design, including web services, design systems, touch platforms and branding. 
 
-I have a strong passion for all aspects of product, UI/UX and visual design, including web and mobile services, branding and software development. I love designing in the browser but I work a lot with Figma and other design tools as well. I like writing applications mainly with TypeScript, React and other modern tools.
+I get excited about finding unique and elegant solutions for complex user issues, and I love designing by code in the browser but I work a lot with *Figma* and other design tools as well. Usually I prefer writing applications with *TypeScript*, *React*, *Sass* and other modern tools.
 
 Check out my **[Portfolio](https://joonassandell.com)** ([view source](https://github.com/joonassandell/portfolio)) for selected works.  
 
-You can also find me from [Dribbble](https://dribbble.com/joonassandell), [Twitter](https://twitter.com/joonassandell), [LinkedIn](https://www.linkedin.com/in/joonassandell), [Instagram](https://instagram.com/mode.apart) and [SoundCloud](https://soundcloud.com/modeapart).
+You can also find me from [Twitter](https://twitter.com/joonassandell), [LinkedIn](https://www.linkedin.com/in/joonassandell), [Dribbble](https://dribbble.com/joonassandell), [Read.cv](https://read.cv/joonassandell), [Instagram](https://instagram.com/mode.apart) and [SoundCloud](https://soundcloud.com/modeapart).
